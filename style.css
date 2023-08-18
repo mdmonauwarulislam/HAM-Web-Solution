@@ -121,6 +121,7 @@ video{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    overflow-x: hidden;
 }
 
 #scroller {
