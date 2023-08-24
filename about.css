@@ -9,6 +9,7 @@
 html,body{
     height: 100%;
     width: 100%;
+    background-color: #000;
 }
 
 #nav{
@@ -21,7 +22,7 @@ html,body{
     position: fixed;
     /* background-color: #000; */
     justify-content:flex-start;
-    z-index: 12;
+    z-index: 999;
 }
 #nav img{
     height: 130px;
